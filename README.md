@@ -18,7 +18,7 @@ Explore error handling and debugging techniques to catch bugs in your programs
 Create and use custom dialogue boxes to collect data from users
 Customize and extend Office apps such as Excel, PowerPoint, and Word
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178961006) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789610036) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
