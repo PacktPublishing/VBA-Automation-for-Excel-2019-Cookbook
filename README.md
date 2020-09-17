@@ -45,6 +45,10 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789610031_ColorImages.pdf).
 
+### Code in Action
+Click on the following link to see the Code in Action: 
+https://bit.ly/3jQRvVk
+
 ### Related products
 * Learn Microsoft Office 2019 [[Packt]](https://www.packtpub.com/product/learn-microsoft-office-2019/9781839217258?utm_source=github&utm_medium=repository&utm_campaign=9781839217258) [[Amazon]](https://www.amazon.com/dp/1839217251)
 
