@@ -1,8 +1,8 @@
-# VBA Automation Cookbook
+# VBA Automation for Excel 2019 Cookbook
 
 <a href="https://www.packtpub.com/business-other/vba-automation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789610031"><img src="https://static.packt-cdn.com/products/9781789610031/cover/smaller" alt="VBA Automation Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [VBA Automation Cookbook](https://www.packtpub.com/business-other/vba-automation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789610031), published by Packt.
+This is the code repository for [VBA Automation for Excel 2019 Cookbook](https://www.packtpub.com/business-other/vba-automation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789610031), published by Packt.
 
 **Solutions to automate routine tasks and increase productivity with Excel and other MS Office applications**
 
