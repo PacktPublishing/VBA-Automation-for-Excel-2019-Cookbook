@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B12303?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # VBA Automation for Excel 2019 Cookbook
 
 <a href="https://www.packtpub.com/business-other/vba-automation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789610031"><img src="https://static.packt-cdn.com/products/9781789610031/cover/smaller" alt="VBA Automation Cookbook" height="256px" align="right"></a>
