@@ -56,3 +56,7 @@ https://bit.ly/3jQRvVk
 
 ## Get to Know the Author
 **Mike Van Niekerk** has consulted as an IT lecturer since 1995, mainly presenting project management and Microsoft Office end user application courses. With 39 years of applied experience in many industries, including language courses and the writing of manuals, he has acquired an exceptional ability to transfer knowledge. Being a Microsoft Office Specialist and Microsoft Certified Trainer, he is highly experienced in MS Word, Excel, PowerPoint, Access, MS Project, and VBA. He also works with, and trains on, Outlook, Publisher, and Visio. The training he has done includes all these applications on all levels, from beginner to advanced. He has written MS Office training manuals for several IT training companies in South Africa.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789610031">https://packt.link/free-ebook/9781789610031 </a> </p>
