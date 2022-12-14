@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789610031)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # VBA Automation for Excel 2019 Cookbook
 
 <a href="https://www.packtpub.com/business-other/vba-automation-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789610031"><img src="https://static.packt-cdn.com/products/9781789610031/cover/smaller" alt="VBA Automation Cookbook" height="256px" align="right"></a>
